@@ -1,6 +1,24 @@
-# React + Vite
+# Durbar Technology LTD company Job Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Custom Swiper Slider Example
+
+This project demonstrates how to create a custom image slider using the Swiper library in a React application.
+
+## Features
+
+- Swipeable image slider with navigation controls.
+- Alerts displaying slide information when navigating.
+
+## Prerequisites
+
+- Node.js and npm (or Yarn) installed on your machine.
+
+## Installation
+
+1. Clone the repository:
+
+
+
 
 Currently, two official plugins are available:
 
